@@ -31,5 +31,5 @@ rustdoc-args = [
     "--extern-html-root-url=std=https://doc.rust-lang.org",
 ]
 
-[patch.crates-io]
-ref-cast = { path = "." }
+# [patch.crates-io]
+# ref-cast = { path = "." }
